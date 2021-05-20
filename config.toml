@@ -1,4 +1,4 @@
-baseURL = "https://philk59.github.io/artwall/"
+baseURL = "https://philk59.github.io/my-blog/"
 title = "artwall" 
 theme = "hugo-coder"
 languageCode = "fr"
