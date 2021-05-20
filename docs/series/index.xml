@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on artwall</title>
-    <link>https://philk59.github.io/artwall/series/</link>
+    <link>https://philk59.github.io/my-blog/series/</link>
     <description>Recent content in Series on artwall</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://philk59.github.io/artwall/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://philk59.github.io/my-blog/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on artwall</title>
-    <link>https://philk59.github.io/artwall/posts/</link>
+    <link>https://philk59.github.io/my-blog/posts/</link>
     <description>Recent content in Posts on artwall</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://philk59.github.io/artwall/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://philk59.github.io/my-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Panneaux cache mur décoratifs sur la Côte d&#39;Opale</title>
-      <link>https://philk59.github.io/artwall/posts/hugo-coder-wiki/</link>
+      <link>https://philk59.github.io/my-blog/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://philk59.github.io/artwall/posts/hugo-coder-wiki/</guid>
+      <guid>https://philk59.github.io/my-blog/posts/hugo-coder-wiki/</guid>
       <description>Bientôt sur cette page, les photos d&amp;rsquo;un chantier en cours de réalisation. Il s&amp;rsquo;agit de la pose d&amp;rsquo;un ensemble de panneaux ajourés en matériau biocomposite pour cacher un vieux mur âbimé, et ainsi embellir le jardin d&amp;rsquo;une jolie petite maison individuelle située à Merlimont-Plage (62).Merci à ces clients propriétaires qui nous font confiance.</description>
     </item>
     
