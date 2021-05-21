@@ -13,4 +13,4 @@ Pour éviter la vue du voisinnage, les panneaux en acier sont déployés sur une
 Le système de clôture est étudié pour offrir une surface extérieure sans poteau apparent.
 Il se crée ainsi un linéaire de panneaux sans interruption graphique et se juxtaposent pour créer un décor végétal.
 
-![Alt clôture en acier inox](https://philk59.github.io/artwall/images/cloture.jpg)
+![Alt clôture en acier inox](https://philk59.github.io/my-blog/images/cloture.jpg)

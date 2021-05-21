@@ -29,4 +29,4 @@ Phil K, votre créateur designer, dessine chacun des motifs de découpe de **vos
 Si vous le souhaitez, vous pouvez apporter une **touche personnelle** à vos panneaux décoratifs, dans ce cas,  envoyez-nous votre croquis ou une photo du motif souhaitez, et nous réaliserons vos panneaux sur mesure.
 Nous réaliserons alors une **solution unique, juste pour vous!** 
 
-![Alt acier corten](https://philk59.github.io/artwall/images/laser.jpg) 
+![Alt acier corten](https://philk59.github.io/my-blog/images/laser.jpg) 
