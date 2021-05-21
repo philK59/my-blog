@@ -16,4 +16,4 @@ Il est disponibles en diverses épaisseurs (nous consulter).
 
 Ce matériau est recommandé pour les utilisations en intérieur.
 
-![Alt biocomposite](https://philk59.github.io/artwall/images/biocomposite.jpg)
+![Alt biocomposite](https://philk59.github.io/my-blog/images/biocomposite.jpg)
