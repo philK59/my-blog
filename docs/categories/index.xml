@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on artwall</title>
-    <link>https://philk59.github.io/my-blog/categories/</link>
+    <link>https://quizzical-lumiere-fb98cd.netlify.app/categories/</link>
     <description>Recent content in Categories on artwall</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://philk59.github.io/my-blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://quizzical-lumiere-fb98cd.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>cache mur</title>
-      <link>https://philk59.github.io/my-blog/categories/cache-mur/</link>
+      <link>https://quizzical-lumiere-fb98cd.netlify.app/categories/cache-mur/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://philk59.github.io/my-blog/categories/cache-mur/</guid>
+      <guid>https://quizzical-lumiere-fb98cd.netlify.app/categories/cache-mur/</guid>
       <description></description>
     </item>
     
