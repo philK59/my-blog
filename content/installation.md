@@ -13,5 +13,5 @@ Choisissez à partir d'une gamme d'écran décoratifs de dimensions standards, o
 Nous pouvons fournir certains équipements optionnels comme des potelets supports ou des entretoises.
 Dites-nous simplement comment vous avez l'intention d'utiliser les panneaux et nous nous assurerons de trouver une solution simple pour votre projet.
 
-![Alt montage](https://quizzical-lumiere-fb98cd.netlify.app/my-blog/images/montage1.jpg)
-![Alt montage](https://quizzical-lumiere-fb98cd.netlify.app/my-blog/images/montage2.jpg)
+![Alt montage](https://quizzical-lumiere-fb98cd.netlify.app/my-blog/static/images/montage1.jpg)
+![Alt montage](https://quizzical-lumiere-fb98cd.netlify.app/my-blog/static/images/montage2.jpg)
