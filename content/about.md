@@ -1,32 +1,32 @@
 +++
 title = "A propos de nous"
-description = "Artwall, le premier site français de vente en ligne d'écrans de jardin décoratifs"
+description = "Artwall, premier site français de vente en ligne de panneaux décoratifs découpés au laser"
 date = "2019-02-28"
 aliases = ["a-propos-de-nous", "contact"]
 author = "Phil K"
 +++
 
-Implantée dans les Hauts de France prés de Lille, notre entreprise familiale et artisanale est en activité depuis 1989.
+Implantée dans les **Hauts de France** prés de Lille, notre entreprise familiale et artisanale est en activité depuis 1989.
 
-A l'origine fabricant de protections métalliques pour l'industrie et le secteur logistique trés présent dans notre région, elle s'est spécialisée ces dernières années, dans la fabrication, en petites et moyennes séries de **panneaux décoratifs avec motifs découpés au laser**.
+Elle s'est spécialisée dans la fabrication, à l'unité et petites séries de **panneaux décoratifs avec motifs découpés au laser**.
 
-Tous **nos produits sont réalisés localement**, en nos ateliers des µ**Hauts de France**.
+Tous **nos produits sont réalisés localement** en nos ateliers.
 
-Nous travaillons essentiellement **des matériaux et des techniques de production respectueux de l'environnement**. Nous privilégions les matières bruts, acier Corten pour l'extérieur et biocomposite pour l'intérieur. Le design des découpes (motifs) de nos écrans décoratifs est principalement inspiré par la nature, comme le feuillage d'un arbre ou les coquillages de style art déco.
+Nous travaillons essentiellement **des matériaux et des techniques de production respectueux de l'environnement**; En effet, nous privilégions les matières bruts comme l'**acier Corten** pour l'extérieur et le **biocomposite** pour l'intérieur ou le bois. 
+Le design des découpes (motifs) de nos écrans décoratifs est d'ailleurs souvent inspiré par la nature, comme le feuillage d'un arbre ou les coquillages de style art déco.
 
-Il existe de nombreuses possibilités d'utilisation des panneaux décoratifs, par exemple pour séparer des balcons privatifs, pour habiller un vieux mur, pour fermer une pergola, pour remplir une clôture, un portillon, un portail, pour sécuriser une piscine ou un espace BBQ et en même temps, sublimer vos espaces de vie. 
+Il existe de nombreuses possibilités d'utilisation des panneaux décoratifs, comme par exemple pour séparer des balcons privatifs, pour habiller un vieux mur extérieur, pour fermer une pergola, pour remplir une clôture, un portillon, un portail, pour sécuriser une piscine ou un espace BBQ, pour décorer un mur de chambre ou pour servir de tête de lit.
+Ces panneaux décoratifs sublimeront vos espaces de vie.
 
-Communiquez-nous simplement les dimensions de l'espace à remplir, nous pourrons ainsi en déduire les dimensions finales des panneaux, et les solutions techniques de pose appropriées.
+Vous pouvez installer les panneaux vous-même, ou vous pouvez nous mettre en relation avec votre constructeur, architecte, décorateur ou paysagiste, pour que nous définissions ensemble votre projet.
 
-Vous pouvez installer les panneaux vous-même, ou vous pouvez nous mettre en relation avec votre constructeur, architecte, décorateur ou paysagiste, pour réaliser ensemble votre projet.
+Nous vous communiquerons toutes les informations utiles pour la réalisation de votre projet de décoration ou d'aménagement : proposition de solutions techniques pour la fabrication, choix des matières, solutions de pose des panneaux décoratifs, étude de prix, dessin.
 
-Notre entreprise s’appuie sur un atelier de production performant, et sur le développement permanent de nouveaux outillages pour la mise en forme des produits : dernières machines CNC de découpe laser, cisaille et plieuse. 
+Phil K, votre "personnal designer", dessine chacun des motifs de découpe de **vos écrans décoratifs**.
 
-Notre service commercial vous communiquera toutes les informations utiles pour la réalisation de votre projet de rénovation, de décoration ou d'aménagement : proposition de solutions techniques, pour la fabrication, et la pose des panneaux décoratifs, étude de prix, dessin, croquis.
+Nous mettons nos **machines CNC de découpe laser** à votre disposition.
 
-Phil K, votre créateur designer, dessine chacun des motifs de découpe de **vos écrans décoratifs en édition limitée**.
-
-Si vous le souhaitez, vous pouvez apporter une **touche personnelle** à vos panneaux décoratifs, dans ce cas,  envoyez-nous votre croquis ou une photo du motif souhaitez, et nous réaliserons vos panneaux sur mesure.
+Apportez une **touche personnelle** à vos panneaux décoratifs : Communiquez-nous simplement les dimensions de l'espace à remplir et vos idées de motif en envoyant sur notre e-mail, votre croquis, ou une photo du motif souhaité;
 Nous réaliserons alors une **solution unique, juste pour vous!** 
 
 ![Alt acier corten](https://philk59.github.io/my-blog/images/laser.jpg) 
