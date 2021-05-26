@@ -29,4 +29,4 @@ Nous mettons nos **machines CNC de découpe laser** à votre disposition.
 Apportez une **touche personnelle** à vos panneaux décoratifs : Communiquez-nous simplement les dimensions de l'espace à remplir et vos idées de motif en envoyant sur notre e-mail, votre croquis, ou une photo du motif souhaité;
 Nous réaliserons alors une **solution unique, juste pour vous!** 
 
-![Alt acier corten](https://philk59.github.io/my-blog/images/laser.jpg) 
+![Découpe laser](/images/laser.jpg)

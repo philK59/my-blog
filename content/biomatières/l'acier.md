@@ -20,7 +20,7 @@ L'aspect sur un même ouvrage, peut-être différent si cetaines parties sont ex
 
 Cet acier est particulièrement recommandé pour le jardin et les espaces extérieurs.
   
-![Alt acier corten](https://philk59.github.io/my-blog/images/panneaucorten.jpg)
+![Alt acier corten](/images/panneaucorten.jpg)
 
 
 
