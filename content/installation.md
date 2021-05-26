@@ -14,3 +14,4 @@ Nous pouvons fournir certains équipements optionnels comme des potelets support
 Dites-nous simplement comment vous avez l'intention d'utiliser les panneaux et nous nous assurerons de trouver une solution simple pour votre projet.
 
 ![Montage](/images/montage1.jpg)
+![Montage](/images/montage2.jpg)
