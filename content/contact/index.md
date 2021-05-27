@@ -1,10 +1,9 @@
 +++
-date: "2021"
-title: "Get in touch"
+date= "2021"
+title= "Get in touch"
 +++
 
-
-<form method="post" name="Contact" netlify>
+<form method="post" name="Contact">
     <label for="fname">Nom</label>
     <br>
     <input type="text" id="fname" name="firstname" placeholder="Votre nom..">
