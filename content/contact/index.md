@@ -21,7 +21,7 @@ Hello world
     <br>
     <label for="message">Message</label>
     <br>
-    <textarea id="message" name="message" placeholder="Décrivez-nous votre projet en quelques mots" style="height: 100px"></textarea>
+    <textarea id="message" name="message" placeholder="Décrivez-nous votre projet en quelques mots" style=""></textarea>
     <br>
     <br>
     <input type="submit" value="Submit" style="">
