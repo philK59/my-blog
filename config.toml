@@ -136,7 +136,7 @@ weight = 7
 url = "installation/"
 
 [[languages.fr.menu.main]]
-name = "Contactez-nous"
+name = "Contact"
 weight = 8
 url = "contact/"
 
