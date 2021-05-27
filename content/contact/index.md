@@ -2,7 +2,7 @@
 date= "2021"
 title= "Get in touch"
 +++
-
+Hello world
 <form method="post" name="Contact">
     <label for="fname">Nom</label>
     <br>
