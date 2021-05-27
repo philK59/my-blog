@@ -1,5 +1,5 @@
 +++
-date = "2021"
+date = "2018"
 title = "Get In Touch"
 +++
 
@@ -14,7 +14,7 @@ title = "Get In Touch"
     <br>
     <label for="lname">Last Name</label>
     <br>
-     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
+    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
     <br>
     <br>
     <label for="email">Email</label>
