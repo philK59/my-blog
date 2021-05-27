@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://quizzical-lumiere-fb98cd.netlify.app/contact/</loc>
+    <lastmod>2021-05-27T18:36:18+02:00</lastmod>
+  </url><url>
     <loc>https://quizzical-lumiere-fb98cd.netlify.app/</loc>
     <lastmod>2021-05-06T16:35:51+02:00</lastmod>
   </url><url>
@@ -48,8 +51,6 @@
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://quizzical-lumiere-fb98cd.netlify.app/authors/</loc>
-  </url><url>
-    <loc>https://quizzical-lumiere-fb98cd.netlify.app/contact/</loc>
   </url><url>
     <loc>https://quizzical-lumiere-fb98cd.netlify.app/series/</loc>
   </url>
