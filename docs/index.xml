@@ -8,15 +8,6 @@
     <language>fr</language>
     <lastBuildDate>Thu, 06 May 2021 16:35:51 +0200</lastBuildDate><atom:link href="https://artwall.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
-      <link>https://artwall.fr/contact/</link>
-      <pubDate>Thu, 27 May 2021 18:36:18 +0200</pubDate>
-      
-      <guid>https://artwall.fr/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>L&#39;acier Corten</title>
       <link>https://artwall.fr/biomati%C3%A8res/lacier/</link>
       <pubDate>Thu, 06 May 2021 16:35:51 +0200</pubDate>
@@ -60,6 +51,15 @@ Choisissez à partir d&amp;rsquo;une gamme d&amp;rsquo;écran décoratifs de dim
 Ensemble de tôles découpées au laser.
 Pour éviter la vue du voisinnage, les panneaux en acier sont déployés sur une hauteur de 1,2m.
 Le système de clôture est étudié pour offrir une surface extérieure sans poteau apparent. Il se crée ainsi un linéaire de panneaux sans interruption graphique et se juxtaposent pour créer un décor végétal.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://artwall.fr/contact/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://artwall.fr/contact/</guid>
+      <description></description>
     </item>
     
     <item>
