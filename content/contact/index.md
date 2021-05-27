@@ -1,8 +1,8 @@
----
-title: "Contact"
-date: 2021-05-27T18:36:18+02:00
-draft: false
----
++++
+date: "2021"
+title: "Get in touch"
++++
+
 
 <form method="post" name="Contact" netlify>
     <label for="fname">Nom</label>
