@@ -3,10 +3,10 @@ date= "2021"
 title= "Get in touch"
 +++
 Hello world
-<form method="post" name="Contact">
+<form method="post" name="Contact" netlify>
     <label for="fname">Nom</label>
     <br>
-    <input type="text" id="fname" name="firstname" placeholder="Votre nom..">
+    <input type="text" id="fname" name="firstname" placeholder="Votre nom">
     <br>
     <br>
     <label for="lname">Prénom</label>
