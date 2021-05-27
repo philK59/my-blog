@@ -1,4 +1,4 @@
-baseURL = "https://quizzical-lumiere-fb98cd.netlify.app"
+baseURL = "https://artwall.fr"
 title = "artwall" 
 theme = "hugo-coder"
 languageCode = "fr"
