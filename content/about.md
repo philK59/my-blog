@@ -24,7 +24,7 @@ Vous pouvez installer les panneaux vous-même, ou vous pouvez nous mettre en rel
 
 Nous vous communiquerons toutes les informations utiles pour la réalisation de votre projet de décoration ou d'aménagement : proposition de solutions techniques pour la fabrication, choix des matières, solutions de pose des panneaux décoratifs, étude de prix, dessin.
 
-Phil K, votre "Personal Designer", dessine chacun des motifs de **vos écrans décoratifs**.
+Phil K, votre "Personal Designer", dessine chacun des motifs de **vos panneaux ou écrans décoratifs**.
 
 Nous mettons nos **machines CNC de découpe laser** à votre disposition.
 
