@@ -1,34 +1,20 @@
 +++
 date = "2018"
-title = "Get In Touch"
+title = "Contactez-nous"
 +++
 
-<form action="/thankyou" method="post" name="Contact" data-netlify="true" netlify-honeypot="bot-field" netlify>
-    <p style="visibility: hidden">
-        <label> Don't Fill This Out If You're Human:" </label><input name=bot-field/>
-    </p>
-    <label for="fname">First Name</label>
-    <br>
-    <input type="text" id="fname" name="firstname" placeholder="Your first name..">
-    <br>
-    <br>
-    <label for="lname">Last Name</label>
-    <br>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-    <br>
-    <br>
-    <label for="email">Email</label>
-    <br>
-    <input type="text" id="email" name="email" placeholder="email@example.com">
-    <br>
-    <br>
-    <label for="message">Message</label>
-    <br>
-    <textarea id="message" name="message" placeholder="Write Something Interesting" style="height: 200px"></textarea>
-    <br>
-    <br>
-    <div data-netlify-recaptcha></div>
-    <br>
-    <br>
-    <input type="submit" value="Submit" style="">
-</form>
+Artwall Z.A. Les Ansereuilles â€“ BP 104 - 59536 WAVRIN cedex (FRANCE)
+  
+Immatriculation au Registre du commerce et des sociÃ©tÃ©s sous le numÃ©ro : 352 872 436 R.C.S Lille MÃ©tropole
+  
+SociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e au capital de : 45 000.00â‚¬
+  
+ 
+SiÃ¨ge social/service commercial Lille-Wavrin
+  
+T. 03 20 58 23 19 de 8h-12h et 13h-17h du lundi au vendredi
+
+E-mail : contact@artwall.fr
+
+Vous pouvez nous rencontrer Ã  notre siÃ¨ge de Lille-Wavrin et/ou rencontrer notre responsable commercial sur la cÃ´te d'Opale, au Touquet sur rendez-vous.
+
