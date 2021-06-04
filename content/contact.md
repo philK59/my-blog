@@ -1,7 +1,22 @@
-+++
-date = "2018"
-title = "Contactez-nous"
-+++
+---
+title: "Contact"
+date: 2020-04-09T16:00:02+02:00
+layout: contact
+heroimage: /images/contact.jpg
+
+buttons:
+- name: Phone
+icon: fas fa-phone
+href: "tel:555555555"
+
+- name: Contact form
+icon: fas fa-envelope
+id: open-modal
+
+form: https://docs.google.com/forms/d/e/1FAIpQLSfmETd7dO7HAp9qWIqJW6xh-hF1UeUYxBNCNZR4joJT3yUdzA/viewform?usp=sf_link
+---
+
+## Me Contacter
 
 Artwall Z.A. Les Ansereuilles BP 104 - 59536 WAVRIN cedex (FRANCE)
   
@@ -17,4 +32,3 @@ T. 03 20 58 23 19 de 8h-12h et 13h-17h du lundi au vendredi
 E-mail : contact@accespmr.fr
 
 Vous pouvez nous rencontrer à notre atelier de Lille-Wavrin et/ou demander un RDV avec notre responsable commercial présent sur la côte d'Opale, au Touquet (pour cela merci de nous envoyer un e-mail).
-
