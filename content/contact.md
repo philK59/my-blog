@@ -12,27 +12,36 @@ T. 03 20 58 23 19 de 8h-12h et 13h-17h du lundi au vendredi
 E-mail : <a href="mailto:contact@accespmr.fr">contact@accespmr.fr
 Vous pouvez nous rencontrer à notre atelier de Lille-Wavrin et/ou demander un RDV avec notre responsable commercial présent sur la côte d'Opale, au Touquet (pour cela merci de nous envoyer un e-mail).
 
-Three options on how to contact me
+<form name="contact" class="contact-form width-normal" action="/thank-you/" method="POST" data-netlify="true">
+    <input type="hidden" name="form-name" value="contact" />
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Name"></label>
+        <div class="col-md-4">
+            <input id="contact-form-name" name="Name" type="text" placeholder="Name" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
+    <!-- Text input-->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for="Email"></label>
+        <div class="col-md-4">
+            <input id="contact-form-email" name="Email" type="email" placeholder="Email Address" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
 
-  1. Submit the contact form here
-  2. Send me an email -- first name at this domain.
-  3. Message me on [Twitter](http://twitter.com/codywilbourn)
-
-<form class="black-80" name="contact" method="POST" netlify-honeypot="missing" netlify>
-  <label for="name" class="f6 b db mb2">Name <span class="normal black-60">(required)</span></label>
-  <input id="name" name="name" class="input-reset ba b--black-20 pa2 mb2 db w-100" type="text" required />
-
-  <label for="email" class="f6 b db mb2">Email <span class="normal black-60">(required)</span></label>
-  <input id="email" name="email" class="input-reset ba b--black-20 pa2 mb2 db w-100" type="email" required />
-
-  <label for="message" class="f6 b db mb2">Message <span class="normal black-60">(required)</span></label>
-  <textarea id="message" name="message" class="input-reset ba b--black-20 pa2 mb2 db w-100" required> </textarea>
-
-  <p class="dn">
-    <label>Leave this field blank <input name="missing" /></label>
-  </p>
-  <div data-netlify-recaptcha></div>
-  <p>
-    <button type="submit" class="button-reset">Send</button>
-  </p>
-</form>
+  <div class="form-group">
+        <label class="col-md-4 control-label" for="Subject"></label>
+        <div class="col-md-4">
+            <input id="contact-form-subject" name="Subject" type="text" placeholder="Subject" class="form-control input-md" required="" autocomplete="off">
+        </div>
+    </div>
+    <!-- Textarea -->
+    <div class="form-group">
+        <label class="col-md-4 control-label" for=""></label>
+        <textarea class="form-control" id="contact-form-message" name="Message" placeholder="What's up?" rows="8"></textarea>
+    </div>
+    <!-- Button -->
+    <div class="form-group">
+        <button type="submit" value="Submit" id="Form-submit">Submit</button>
+    </div>
+</form>    
